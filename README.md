@@ -2,5 +2,4 @@
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning JS for work and C for firmware keyboard
 - 📫 How to reach me : - discord therealnols, mail: nilsm2950@gmail.com
-- 🏗  Working at Wexso as programmer/media. 
-- ⚡ Fun fact: I have skied with blind people for a couple of years
+- 🏗  Working at Wexso as a consultant.
